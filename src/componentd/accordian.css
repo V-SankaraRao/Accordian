@@ -1,0 +1,17 @@
+.parent{
+    border: 2px solid black;
+    font-size: 10px;
+    padding: 10px;
+    background-color: brown;
+}
+.child{
+   color:white;
+}
+.q{
+    border-bottom:1px solid black;
+    color:black;
+}
+.title{
+    color:aqua;
+    background-color:black;
+}
